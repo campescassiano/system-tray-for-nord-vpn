@@ -1,0 +1,7 @@
+BasedOnStyle: Google
+AlignConsecutiveAssignments: true
+AlignConsecutiveDeclarations: true
+IndentWidth: 4
+TabWidth: 4
+MaxEmptyLinesToKeep: 1
+AlwaysBreakTemplateDeclarations: true
