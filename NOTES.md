@@ -7,6 +7,8 @@
 [x] - add .clang-format into the project
 [x] - add icons
 [ ] - Check the status of NordVPN to show on System Tray
+[ ] - Connect/Disconnect via System Tray application
+[ ] - Add thread that keeps checking status
 [ ] - Installation script
 
 ## Useful links for this project
