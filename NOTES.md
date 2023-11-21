@@ -6,11 +6,17 @@
 - [x] Very basic code
 - [x] add .clang-format into the project
 - [x] add icons
-- [ ] Check the status of NordVPN to show on System Tray
+- [x] Check the status of NordVPN to show on System Tray
+- [ ] Update system tray message depending on status of the connection
+- [ ] Show alert when disconnecting?
 - [ ] Connect/Disconnect via System Tray application
 - [ ] Add thread that keeps checking status
 - [ ] Install script
 - [ ] Uninstall script
+
+## Known issues
+
+- [ ] When clicking on the Connect/Disconnect on system tray, it is not changing the text
 
 ## Useful links for this project
 
