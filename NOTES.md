@@ -13,6 +13,7 @@
 - [ ] Add thread that keeps checking status
 - [ ] Install script
 - [ ] Uninstall script
+- [ ] Split the SystemTrayIcon class into a separated file
 
 ## Known issues
 
