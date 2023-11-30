@@ -15,6 +15,7 @@
 - [ ] Uninstall script
 - [ ] Split the SystemTrayIcon class into a separated file
 - [ ] Enhance the code that is ugly (C style)
+- [ ] Add signal handler for SIGTERM, for example
 
 ## Known issues
 
